@@ -1,2 +1,5 @@
 # JoelSetiawan.github.io
-Portfolio Website
+To-Do:
+	Change Template Text
+	Put Project Files
+	Personalize with Achievements
